@@ -1,6 +1,6 @@
 # PreceptorAI
 - <a href="https://colab.research.google.com/drive/1Cb4GRcgRdYddWbSLD4BVz8lkU7JbIoX_?usp=sharing">LoadersIndexesVectorstores_in_LangChain.ipynb</a>
-- <a href="AAAAAAAAAAAAAAAAA">AAAAAAAAAAAAAAAAA</a>
+- <a href="https://colab.research.google.com/drive/1Mz4rNJpW3FVZalXuwZkglMvWk6VPI-GU?usp=sharing">stanford_alpaca.ipynb</a>
 - <a href="https://colab.research.google.com/drive/1eWAmesrW99p7e1nah5bipn0zikMb8XYC?usp=sharing">alpaca-lora.ipynb</a>
 - <a href="https://colab.research.google.com/drive/1NwSs90-Qw3A8d4YGvxqcbrRYVxZvJ6Nv?usp=sharing">elasticsearch.ipynb</a>
 - <a href="https://colab.research.google.com/drive/1pJ3wV49OmrspwAfg52_Y6f5B7MILWTxR?usp=sharing">YT Finetuning Dolly GPT-j6B.ipynb</a>
@@ -15,6 +15,7 @@
 - <a href="https://colab.research.google.com/drive/1A8Prplbjr16hy9eGfWd3-r34FOuccB2c?usp=sharing">Dolly 2.0 HuggingFace v1.1.ipynb</a>
 - <a href="https://colab.research.google.com/drive/1X85FLniXx_NyDsh_F_aphoIAy63DKQ7d?usp=sharing">alpaca-fine-tuning.ipynb</a>
 - <a href="https://colab.research.google.com/drive/1EuS_z3VzDDhux0pIp4U_NRYkHTthbd2H?usp=sharing">benchmark_idx.ipynb</a>
-
-
+- <a href="https://colab.research.google.com/drive/10knmGv7iaIRo1FXVoiotj0RT68Ty1YvJ?usp=sharing">สำเนาของ alpaca-lora.ipynb</a>
+- <a href="https://colab.research.google.com/drive/1WSWLr7Cp_xQWeMT1f1lwUs-tU_nhRszp?usp=sharing">DataMaker for Alpaca style custom dataset.ipynb</a>
+- <a href="AAAAAAAAAAAAAAAAA">AAAAAAAAAAAAAAAAA</a>
 - <a href="AAAAAAAAAAAAAAAAA">AAAAAAAAAAAAAAAAA</a>
