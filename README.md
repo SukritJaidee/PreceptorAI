@@ -17,5 +17,14 @@
 - <a href="https://colab.research.google.com/drive/1EuS_z3VzDDhux0pIp4U_NRYkHTthbd2H?usp=sharing">LlamaIndex_PreceptorAI_v001.ipynb</a>
 - <a href="https://colab.research.google.com/drive/10knmGv7iaIRo1FXVoiotj0RT68Ty1YvJ?usp=sharing">สำเนาของ alpaca-lora.ipynb</a>
 - <a href="https://colab.research.google.com/drive/1WSWLr7Cp_xQWeMT1f1lwUs-tU_nhRszp?usp=sharing">DataMaker for Alpaca style custom dataset.ipynb</a>
+- <a href="https://colab.research.google.com/drive/1uL1TdMbR4kqa0Ksrd_Of_jWSxWt1ia7o?usp=sharing">10k Analysis</a>
+- <a href="https://colab.research.google.com/drive/1xJ_kImW4orTIzP2fIbQn7MGrnxtJllgD?usp=sharing">LlamaIndex_PreceptorAI_v001_deploy.ipynb</a>
 - <a href="AAAAAAAAAAAAAAAAA">AAAAAAAAAAAAAAAAA</a>
 - <a href="AAAAAAAAAAAAAAAAA">AAAAAAAAAAAAAAAAA</a>
+- <a href="AAAAAAAAAAAAAAAAA">AAAAAAAAAAAAAAAAA</a>
+- <a href="AAAAAAAAAAAAAAAAA">AAAAAAAAAAAAAAAAA</a>
+- <a href="AAAAAAAAAAAAAAAAA">AAAAAAAAAAAAAAAAA</a>
+
+## Ref
+- https://github.com/jerryjliu/llama_index/tree/main/benchmarks/struct_indices/spider
+- 
