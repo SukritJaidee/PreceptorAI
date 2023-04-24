@@ -14,7 +14,7 @@
 - <a href="https://colab.research.google.com/drive/1n5U13L0Bzhs32QO_bls5jwuZR62GPSwE?usp=sharing">Fine-tuning Dolly 2.0 with LoRa and Alpaca.ipynb</a>
 - <a href="https://colab.research.google.com/drive/1A8Prplbjr16hy9eGfWd3-r34FOuccB2c?usp=sharing">Dolly 2.0 HuggingFace v1.1.ipynb</a>
 - <a href="https://colab.research.google.com/drive/1X85FLniXx_NyDsh_F_aphoIAy63DKQ7d?usp=sharing">alpaca-fine-tuning.ipynb</a>
-- <a href="https://colab.research.google.com/drive/1EuS_z3VzDDhux0pIp4U_NRYkHTthbd2H?usp=sharing">benchmark_idx.ipynb</a>
+- <a href="https://colab.research.google.com/drive/1EuS_z3VzDDhux0pIp4U_NRYkHTthbd2H?usp=sharing">LlamaIndex_PreceptorAI_v001.ipynb</a>
 - <a href="https://colab.research.google.com/drive/10knmGv7iaIRo1FXVoiotj0RT68Ty1YvJ?usp=sharing">สำเนาของ alpaca-lora.ipynb</a>
 - <a href="https://colab.research.google.com/drive/1WSWLr7Cp_xQWeMT1f1lwUs-tU_nhRszp?usp=sharing">DataMaker for Alpaca style custom dataset.ipynb</a>
 - <a href="AAAAAAAAAAAAAAAAA">AAAAAAAAAAAAAAAAA</a>
