@@ -32,4 +32,9 @@
 - https://github.com/mayooear/gpt4-pdf-chatbot-langchain
 - https://www.youtube.com/watch?v=Ix9WIZpArm0&t=1184s
 - https://github.com/openai/openai-cookbook/blob/main/examples/Semantic_text_search_using_embeddings.ipynb
-- 
+- https://gpt-index.readthedocs.io/en/latest/guides/primer/usage_pattern.html#parsing-the-response
+- https://github.com/jerryjliu/llama_index/blob/main/examples/vector_indices/SimpleIndexDemo.ipynb
+- https://github.com/openai/openai-cookbook/blob/main/examples/Code_search.ipynb
+- https://github.com/gururise/AlpacaDataCleaned/tree/main
+- https://huggingface.co/sukritja/sukritjaidee
+- https://openthaigpt.aieat.or.th/finetune-8-apr
