@@ -1,5 +1,5 @@
 ## in progress
-- 
+- <a href="https://colab.research.google.com/drive/11F1M3bV6WQ4-a-j2P7YCmMxwiKJAUhIh?usp=sharing">word_count.ipynb</a>
 
 # PreceptorAI
 - <a href="https://colab.research.google.com/drive/1Cb4GRcgRdYddWbSLD4BVz8lkU7JbIoX_?usp=sharing">LoadersIndexesVectorstores_in_LangChain.ipynb</a>
@@ -23,7 +23,6 @@
 - <a href="https://colab.research.google.com/drive/1uL1TdMbR4kqa0Ksrd_Of_jWSxWt1ia7o?usp=sharing">10k Analysis</a>
 - <a href="https://colab.research.google.com/drive/1xJ_kImW4orTIzP2fIbQn7MGrnxtJllgD?usp=sharing">LlamaIndex_PreceptorAI_v001_deploy.ipynb</a>
 - <a href="https://colab.research.google.com/github/openai/openai-cookbook/blob/master/examples/vector_databases/pinecone/Semantic_Search.ipynb">Semantic_Search.ipynb</a>
-- <a href="https://colab.research.google.com/drive/11F1M3bV6WQ4-a-j2P7YCmMxwiKJAUhIh?usp=sharing">word_count.ipynb</a>
 - <a href="https://drive.google.com/drive/u/0/folders/1u4Gx9ikU11UFpN-6kJ0D5ODQ4H1-68ZR">google drive</a>
 - <a href="https://github.com/openai/openai-cookbook/blob/main/examples/Get_embeddings.ipynb">Get_embeddings</a>
 - <a href="https://www.youtube.com/watch?v=xzHhZh7F25I&t=163s">5. OpenAI Embeddings API - Searching Financial Documents</a>
