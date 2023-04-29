@@ -14,7 +14,7 @@
 - <a href="https://colab.research.google.com/drive/1n5U13L0Bzhs32QO_bls5jwuZR62GPSwE?usp=sharing">Fine-tuning Dolly 2.0 with LoRa and Alpaca.ipynb</a>
 - <a href="https://colab.research.google.com/drive/1A8Prplbjr16hy9eGfWd3-r34FOuccB2c?usp=sharing">Dolly 2.0 HuggingFace v1.1.ipynb</a>
 - <a href="https://colab.research.google.com/drive/1X85FLniXx_NyDsh_F_aphoIAy63DKQ7d?usp=sharing">alpaca-fine-tuning.ipynb</a>
-- <a href="https://colab.research.google.com/drive/1EuS_z3VzDDhux0pIp4U_NRYkHTthbd2H?usp=sharing">LlamaIndex_PreceptorAI_v001.ipynb</a>
+- <a href="https://colab.research.google.com/drive/1EuS_z3VzDDhux0pIp4U_NRYkHTthbd2H?usp=sharing">LlamaIndex_PreceptorAI_26042566.ipynb</a>
 - <a href="https://colab.research.google.com/drive/10knmGv7iaIRo1FXVoiotj0RT68Ty1YvJ?usp=sharing">สำเนาของ alpaca-lora.ipynb</a>
 - <a href="https://colab.research.google.com/drive/1WSWLr7Cp_xQWeMT1f1lwUs-tU_nhRszp?usp=sharing">DataMaker for Alpaca style custom dataset.ipynb</a>
 - <a href="https://colab.research.google.com/drive/1uL1TdMbR4kqa0Ksrd_Of_jWSxWt1ia7o?usp=sharing">10k Analysis</a>
@@ -22,8 +22,13 @@
 - <a href="https://colab.research.google.com/github/openai/openai-cookbook/blob/master/examples/vector_databases/pinecone/Semantic_Search.ipynb">Semantic_Search.ipynb</a>
 - <a href="https://colab.research.google.com/drive/11F1M3bV6WQ4-a-j2P7YCmMxwiKJAUhIh?usp=sharing">word_count.ipynb</a>
 - <a href="https://drive.google.com/drive/u/0/folders/1u4Gx9ikU11UFpN-6kJ0D5ODQ4H1-68ZR">google drive</a>
+- <a href="https://github.com/openai/openai-cookbook/blob/main/examples/Get_embeddings.ipynb">Get_embeddings</a>
+- <a href="https://www.youtube.com/watch?v=xzHhZh7F25I&t=163s">5. OpenAI Embeddings API - Searching Financial Documents</a>
+- <a href="https://colab.research.google.com/drive/1aWuk9gBbn1WkLR7y-SV-8Uky7-wNM0yS?usp=sharing">pinecone_v1.ipynb</a>
 - <a href="AAAAAAAAAAAAAAAAA">AAAAAAAAAAAAAAAAA</a>
 - <a href="AAAAAAAAAAAAAAAAA">AAAAAAAAAAAAAAAAA</a>
+- <a href="AAAAAAAAAAAAAAAAA">AAAAAAAAAAAAAAAAA</a>
+
 
 ## Ref
 - https://github.com/jerryjliu/llama_index/tree/main/benchmarks/struct_indices/spider
@@ -38,3 +43,17 @@
 - https://github.com/gururise/AlpacaDataCleaned/tree/main
 - https://huggingface.co/sukritja/sukritjaidee
 - https://openthaigpt.aieat.or.th/finetune-8-apr
+- https://docs.pinecone.io/docs/image-similarity-search 
+- https://github.com/jerryjliu/llama_index/tree/main/examples
+
+## Pinecone
+- https://www.youtube.com/watch?v=h0DHDp1FbmQ&t=494s
+
+## langchain
+- https://github.com/gkamradt/langchain-tutorials/blob/main/data_generation/Ask%20A%20Book%20Questions.ipynb
+- https://www.youtube.com/watch?v=cVA1RPsGQcw
+- https://blog.futuresmart.ai/building-a-document-based-question-answering-system-with-langchain-pinecone-and-llms-like-gpt-4-and-chatgpt
+
+
+
+
