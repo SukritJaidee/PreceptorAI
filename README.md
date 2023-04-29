@@ -1,5 +1,5 @@
 ## In progress
-- <a href="https://colab.research.google.com/drive/11F1M3bV6WQ4-a-j2P7YCmMxwiKJAUhIh?usp=sharing">word_count.ipynb</a>
+- <a href="https://colab.research.google.com/drive/11F1M3bV6WQ4-a-j2P7YCmMxwiKJAUhIh?usp=sharing">completions_to_df.ipynb</a>
 - <a href="https://drive.google.com/drive/u/0/folders/1u4Gx9ikU11UFpN-6kJ0D5ODQ4H1-68ZR">google Drive</a>
 - <a href="https://colab.research.google.com/drive/1aWuk9gBbn1WkLR7y-SV-8Uky7-wNM0yS?usp=sharing">pinecone_v1.ipynb</a>
 
