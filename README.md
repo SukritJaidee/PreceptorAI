@@ -3,7 +3,7 @@
 - <a href="https://drive.google.com/drive/u/0/folders/1u4Gx9ikU11UFpN-6kJ0D5ODQ4H1-68ZR">google Drive</a>
 - <a href="https://colab.research.google.com/drive/1aWuk9gBbn1WkLR7y-SV-8Uky7-wNM0yS?usp=sharing">pinecone_preceptorai3.ipynb</a>
 - <a href="https://colab.research.google.com/drive/1VkdbXZu07vTflkEvubfG5fXj4T87nJCn?usp=sharing">pinecone_preceptorai2.ipynb</a>
-
+- <a href="https://colab.research.google.com/drive/1EuS_z3VzDDhux0pIp4U_NRYkHTthbd2H?usp=sharing">LlamaIndex_PreceptorAI_26042566.ipynb</a>
 
 ## PreceptorAI
 - <a href="https://colab.research.google.com/drive/1Cb4GRcgRdYddWbSLD4BVz8lkU7JbIoX_?usp=sharing">LoadersIndexesVectorstores_in_LangChain.ipynb</a>
@@ -21,7 +21,6 @@
 - <a href="https://colab.research.google.com/drive/1n5U13L0Bzhs32QO_bls5jwuZR62GPSwE?usp=sharing">Fine-tuning Dolly 2.0 with LoRa and Alpaca.ipynb</a>
 - <a href="https://colab.research.google.com/drive/1A8Prplbjr16hy9eGfWd3-r34FOuccB2c?usp=sharing">Dolly 2.0 HuggingFace v1.1.ipynb</a>
 - <a href="https://colab.research.google.com/drive/1X85FLniXx_NyDsh_F_aphoIAy63DKQ7d?usp=sharing">alpaca-fine-tuning.ipynb</a>
-- <a href="https://colab.research.google.com/drive/1EuS_z3VzDDhux0pIp4U_NRYkHTthbd2H?usp=sharing">LlamaIndex_PreceptorAI_26042566.ipynb</a>
 - <a href="https://colab.research.google.com/drive/10knmGv7iaIRo1FXVoiotj0RT68Ty1YvJ?usp=sharing">สำเนาของ alpaca-lora.ipynb</a>
 - <a href="https://colab.research.google.com/drive/1WSWLr7Cp_xQWeMT1f1lwUs-tU_nhRszp?usp=sharing">DataMaker for Alpaca style custom dataset.ipynb</a>
 - <a href="https://colab.research.google.com/drive/1uL1TdMbR4kqa0Ksrd_Of_jWSxWt1ia7o?usp=sharing">10k Analysis</a>
