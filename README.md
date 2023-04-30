@@ -1,7 +1,9 @@
 ## In progress
 - <a href="https://colab.research.google.com/drive/11F1M3bV6WQ4-a-j2P7YCmMxwiKJAUhIh?usp=sharing">completions_to_df.ipynb</a>
 - <a href="https://drive.google.com/drive/u/0/folders/1u4Gx9ikU11UFpN-6kJ0D5ODQ4H1-68ZR">google Drive</a>
-- <a href="https://colab.research.google.com/drive/1aWuk9gBbn1WkLR7y-SV-8Uky7-wNM0yS?usp=sharing">pinecone_v1.ipynb</a>
+- <a href="https://colab.research.google.com/drive/1aWuk9gBbn1WkLR7y-SV-8Uky7-wNM0yS?usp=sharing">pinecone_preceptorai3.ipynb</a>
+- <a href="https://colab.research.google.com/drive/1VkdbXZu07vTflkEvubfG5fXj4T87nJCn?usp=sharing">pinecone_preceptorai2.ipynb</a>
+
 
 ## PreceptorAI
 - <a href="https://colab.research.google.com/drive/1Cb4GRcgRdYddWbSLD4BVz8lkU7JbIoX_?usp=sharing">LoadersIndexesVectorstores_in_LangChain.ipynb</a>
@@ -27,7 +29,7 @@
 - <a href="https://colab.research.google.com/github/openai/openai-cookbook/blob/master/examples/vector_databases/pinecone/Semantic_Search.ipynb">Semantic_Search.ipynb</a>
 - <a href="https://github.com/openai/openai-cookbook/blob/main/examples/Get_embeddings.ipynb">Get_embeddings</a>
 - <a href="https://www.youtube.com/watch?v=xzHhZh7F25I&t=163s">5. OpenAI Embeddings API - Searching Financial Documents</a>
-- <a href="AAAAAAAAAAAAAAAAA">AAAAAAAAAAAAAAAAA</a>
+
 - <a href="AAAAAAAAAAAAAAAAA">AAAAAAAAAAAAAAAAA</a>
 - <a href="AAAAAAAAAAAAAAAAA">AAAAAAAAAAAAAAAAA</a>
 
@@ -49,6 +51,9 @@
 
 ## Pinecone
 - https://www.youtube.com/watch?v=h0DHDp1FbmQ&t=494s
+- https://docs.pinecone.io/docs/choosing-index-type-and-size
+- https://docs.pinecone.io/docs/quickstart
+- https://docs.pinecone.io/reference/query
 
 ## langchain
 - https://github.com/gkamradt/langchain-tutorials/blob/main/data_generation/Ask%20A%20Book%20Questions.ipynb
