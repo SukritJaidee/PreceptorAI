@@ -28,7 +28,6 @@
 - <a href="https://colab.research.google.com/github/openai/openai-cookbook/blob/master/examples/vector_databases/pinecone/Semantic_Search.ipynb">Semantic_Search.ipynb</a>
 - <a href="https://github.com/openai/openai-cookbook/blob/main/examples/Get_embeddings.ipynb">Get_embeddings</a>
 - <a href="https://www.youtube.com/watch?v=xzHhZh7F25I&t=163s">5. OpenAI Embeddings API - Searching Financial Documents</a>
-
 - <a href="AAAAAAAAAAAAAAAAA">AAAAAAAAAAAAAAAAA</a>
 - <a href="AAAAAAAAAAAAAAAAA">AAAAAAAAAAAAAAAAA</a>
 
