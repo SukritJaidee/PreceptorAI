@@ -6,7 +6,7 @@
 - <a href="https://colab.research.google.com/drive/1EuS_z3VzDDhux0pIp4U_NRYkHTthbd2H?usp=sharing">LlamaIndex_PreceptorAI_26042566.ipynb</a>
 - <a href="https://colab.research.google.com/drive/1J2mxFpi4ZtXZTyvF0Am0ihzcoKK4CRba?usp=sharing">PreceptorMT-V1_20220905.ipynb</a>
 - <a href="https://colab.research.google.com/drive/1YqQ1RVtgr4I6D6AriyZ9Ek5LWOtPePQc?usp=sharing">obgyn.ipynb</a>
-- <a href="https://drive.google.com/drive/folders/1TDMODOQCqgCnBS_gdyz8piD4SGGVcGks?usp=sharing">obgyn</a>
+- <a href="https://drive.google.com/drive/folders/1TDMODOQCqgCnBS_gdyz8piD4SGGVcGks?usp=sharing">obgyn Google drive</a>
 
 ## PreceptorAI
 - <a href="https://colab.research.google.com/drive/1Cb4GRcgRdYddWbSLD4BVz8lkU7JbIoX_?usp=sharing">LoadersIndexesVectorstores_in_LangChain.ipynb</a>
