@@ -8,10 +8,10 @@
 - <a href="https://colab.research.google.com/drive/1YqQ1RVtgr4I6D6AriyZ9Ek5LWOtPePQc?usp=sharing">obgyn.ipynb</a>
 - <a href="https://drive.google.com/drive/folders/1TDMODOQCqgCnBS_gdyz8piD4SGGVcGks?usp=sharing">obgyn Google drive</a>
 - <a href="https://colab.research.google.com/drive/19qOZvLxdAGHJA2OsqWZP6B4uZR5Y13R2?usp=sharing">GRADIO_obgyn_test_production.ipynb</a>
-- <a href="AAAAAAAAAAAAAAAAA">AAAAAAAAAAAAAAAAA</a>
-- <a href="AAAAAAAAAAAAAAAAA">AAAAAAAAAAAAAAAAA</a>
+- <a href="https://colab.research.google.com/drive/1BUts3lp_TZbWW3BjY2rt15qQxAnIdF1R?usp=sharing">PreceptorMT-V1_20220905_tab1</a>
+- <a href="https://colab.research.google.com/drive/1yrPqfcIPNYLg6SGYYoXhtWrd441eEbQ-?usp=sharing">PreceptorMT-V1_20220905_tab2</a>
 - <a href="https://colab.research.google.com/drive/1ntlAW0ulvDNW2-c1h0gTxDVhTWgacp3j?usp=sharing">PreceptorMT-V1_20220905_tab3</a>
-- <a href="AAAAAAAAAAAAAAAAA">AAAAAAAAAAAAAAAAA</a>
+- <a href="https://colab.research.google.com/drive/1GxIhBMkCJ_XgrsHRiYs93KEEs6i3muif?usp=sharing">th_progress.ipynb</a>
 - <a href="AAAAAAAAAAAAAAAAA">AAAAAAAAAAAAAAAAA</a>
 
 ## PreceptorAI
