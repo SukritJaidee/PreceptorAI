@@ -8,6 +8,11 @@
 - <a href="https://colab.research.google.com/drive/1YqQ1RVtgr4I6D6AriyZ9Ek5LWOtPePQc?usp=sharing">obgyn.ipynb</a>
 - <a href="https://drive.google.com/drive/folders/1TDMODOQCqgCnBS_gdyz8piD4SGGVcGks?usp=sharing">obgyn Google drive</a>
 - <a href="https://colab.research.google.com/drive/19qOZvLxdAGHJA2OsqWZP6B4uZR5Y13R2?usp=sharing">GRADIO_obgyn_test_production.ipynb</a>
+- <a href="AAAAAAAAAAAAAAAAA">AAAAAAAAAAAAAAAAA</a>
+- <a href="AAAAAAAAAAAAAAAAA">AAAAAAAAAAAAAAAAA</a>
+- <a href="https://colab.research.google.com/drive/1ntlAW0ulvDNW2-c1h0gTxDVhTWgacp3j?usp=sharing">PreceptorMT-V1_20220905_tab3</a>
+- <a href="AAAAAAAAAAAAAAAAA">AAAAAAAAAAAAAAAAA</a>
+- <a href="AAAAAAAAAAAAAAAAA">AAAAAAAAAAAAAAAAA</a>
 
 ## PreceptorAI
 - <a href="https://colab.research.google.com/drive/1Cb4GRcgRdYddWbSLD4BVz8lkU7JbIoX_?usp=sharing">LoadersIndexesVectorstores_in_LangChain.ipynb</a>
@@ -32,7 +37,6 @@
 - <a href="https://colab.research.google.com/github/openai/openai-cookbook/blob/master/examples/vector_databases/pinecone/Semantic_Search.ipynb">Semantic_Search.ipynb</a>
 - <a href="https://github.com/openai/openai-cookbook/blob/main/examples/Get_embeddings.ipynb">Get_embeddings</a>
 - <a href="https://www.youtube.com/watch?v=xzHhZh7F25I&t=163s">5. OpenAI Embeddings API - Searching Financial Documents</a>
-- <a href="AAAAAAAAAAAAAAAAA">AAAAAAAAAAAAAAAAA</a>
 - <a href="AAAAAAAAAAAAAAAAA">AAAAAAAAAAAAAAAAA</a>
 
 ## Ref
