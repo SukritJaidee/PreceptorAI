@@ -13,6 +13,7 @@
 - <a href="https://colab.research.google.com/drive/1ntlAW0ulvDNW2-c1h0gTxDVhTWgacp3j?usp=sharing">PreceptorMT-V1_20220905_tab3</a>
 - <a href="https://colab.research.google.com/drive/1Js5g8GFHa1jbatslvVOa7kkkpvQRA2Nh?usp=sharing">PreceptorMT-V1_20220905_tab4</a>
 - <a href="https://colab.research.google.com/drive/1GxIhBMkCJ_XgrsHRiYs93KEEs6i3muif?usp=sharing">th_progress.ipynb</a>
+- <a href="https://colab.research.google.com/drive/19tMr6I8JwZSz3dGMtGhcDEsqLSg1nmOh?usp=sharing">query_image.ipynb</a>
 
 ## PreceptorAI
 - <a href="https://colab.research.google.com/drive/1Cb4GRcgRdYddWbSLD4BVz8lkU7JbIoX_?usp=sharing">LoadersIndexesVectorstores_in_LangChain.ipynb</a>
