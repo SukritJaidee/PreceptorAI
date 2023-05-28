@@ -1,6 +1,7 @@
 ## In progress
 - <a href="https://colab.research.google.com/drive/11F1M3bV6WQ4-a-j2P7YCmMxwiKJAUhIh?usp=sharing">completions_to_df.ipynb</a>
 - <a href="https://drive.google.com/drive/u/0/folders/1u4Gx9ikU11UFpN-6kJ0D5ODQ4H1-68ZR">google Drive</a>
+- <a href="https://colab.research.google.com/drive/19UDge9aue05VcMr6ZbBUynkRJXszgSpb?usp=sharing">pinecone_preceptoraia4_deploy_(tested).ipynb</a>
 - <a href="https://colab.research.google.com/drive/1aWuk9gBbn1WkLR7y-SV-8Uky7-wNM0yS?usp=sharing">pinecone_preceptorai3.ipynb</a>
 - <a href="https://colab.research.google.com/drive/1VkdbXZu07vTflkEvubfG5fXj4T87nJCn?usp=sharing">pinecone_preceptorai2.ipynb</a>
 - <a href="https://colab.research.google.com/drive/1EuS_z3VzDDhux0pIp4U_NRYkHTthbd2H?usp=sharing">LlamaIndex_PreceptorAI_26042566.ipynb</a>
